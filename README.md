@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoPedroSBT00.JoaoPedroSBT00&left_text=%F0%9F%91%80"  />
-</div>
-
-###
-
 <h2 align="center">welcome to my github 👋</h2>
 
 ###
