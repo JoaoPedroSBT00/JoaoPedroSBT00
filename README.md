@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm João Pedro from Brazil.<br><br>    🔭 I’m working as a student.<br><br>    📚 I'm currently learning Python.<br><br>    ⚡ In my free time I like to relax and play games.</p>
+<p align="left">I'm João Pedro from Brazil.<br> 🔭 I’m working as a student.<br>  📚 I'm currently learning Python.<br>   ⚡ In my free time I like to relax and play games.</p>
 
 ###
 
