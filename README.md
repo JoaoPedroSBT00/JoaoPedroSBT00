@@ -1,6 +1,6 @@
   # 📊 Stats:
-!([https://nirzak-streak-stats.vercel.app/?user=JoaoPedroSBT00&theme=merko&hide_border=false)
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSBT00&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)      
+![]([https://nirzak-streak-stats.vercel.app/?user=JoaoPedroSBT00&theme=merko&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSBT00&theme=merko&include_all_commits=false&count_private=false&layout=compact)      
 
 ### 🔝 Repositório com maior contribuição:
 ![](https://github-contributor-stats.vercel.app/api?username=JoaoPedroSBT00&limit=5&theme=dark&combine_all_yearly_contributions=true)
