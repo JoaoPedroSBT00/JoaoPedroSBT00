@@ -9,10 +9,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==29a915&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+github+👋)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="joaopedrosbt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+<div align="center"> 
+<a href="https://www.instagram.com/joaopedrosbt0/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"></a>
+<a href = "mailto:joaopedrosbt00@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
