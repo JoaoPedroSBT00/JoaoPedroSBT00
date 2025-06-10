@@ -14,13 +14,20 @@
 <a href = "mailto:joaopedrosbt00@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">👩‍💻</h1>
 
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroSBT00&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left">I'm João Pedro from Brazil.<br> 🔭 I’m working as a student.<br>  📚 I'm currently learning Python.<br>   ⚡ In my free time I like to relax and play games.</p>
+<div display="inline-block">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroSBT00&bg_color=0000&hide_border=true&text_color=4f76d6" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedroSBT00&layout=compact&langs_count=8&card_width=430&bg_color=0000&hide_border=true&text_color=4f76d6" />
+</a>
 
-###
+</div>
+
 
 <h1 align="left">🛠 Language and tools</h1>
 
