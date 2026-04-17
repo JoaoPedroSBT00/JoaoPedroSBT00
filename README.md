@@ -10,9 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+github+👋)](https://git.io/typing-svg)
 
 
-<h1 align="left">Graphic</h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroSBT00&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Langs</h3>
 
@@ -52,6 +50,10 @@
 </div>
 
 ###
+
+<h1 align="left">Graphic</h1>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroSBT00&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Social Links</h3>
 <div align="left">
