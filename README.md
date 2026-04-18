@@ -6,7 +6,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <p align="center">
 Game Developer specialized in gameplay systems, performance optimization, and structured design. Experience in developing interactive applications with a focus on scalability, maintainability, and production-oriented architecture. Skilled in prototyping, systems design, and implementation of gameplay mechanics with emphasis on efficiency and consistency. Currently working with GameMaker, with continuous development aimed at contributing to high-performance teams and professional game development environments.
